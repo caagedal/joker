@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/caagedal/joker#readme",
   "devDependencies": {
+    "eslint": "^9.23.0",
     "prettier": "^3.5.3"
   },
   "dependencies": {
